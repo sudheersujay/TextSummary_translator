@@ -14,7 +14,7 @@ Before you begin, make sure you have the following installed on your system:
 2) Go to the project directory
 3) Start jupyter notebook
 4) open AI_Summary_Translator.ipynb in the notebook
-5) Change the API key to your own (not required for now as mine is still running)
+5) Change the API key to your own (The key in the project will not work)
 6) Run the notebook cells to start the Flask application
 7) Open a web browser and navigate to http://localhost:8082/. You can also click on the web link in the output of the last cell. If the port is already in use change the port in the last cell block.
    ![text_summary_p1](https://github.com/sudheersujay/TextSummary_translator/assets/42862988/ff2be9c3-b4e4-4202-a6da-b87e955fe34a)
